@@ -2,6 +2,12 @@
 demo python selenium on automation exercise site.
 This is purposely left very basic. Do not take this as a professional testing project. I am just trying to show the basic ideas for some patterns.  
 
+## Setup
+create your env. Easy option:
+- run `python3 -m venv venv`
+- run `source venv/bin/activate`
+- run `pip install -r requirements.txt`
+
 ## Patterns 
 
 ### POM
